@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'EYInterstate';
+  src: url('EYInterstate-Light.ttf');
+}
+.nowrap {
+  min-width: 100px;
+}
+td,
+th {
+  font-size: smaller;
+  font-family: 'EYInterstate';
+}
